@@ -11,5 +11,10 @@
             "name": "ajaaibu",
             "email": "ajaaibu@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "Ajaaibu\\Thaanadate": ["src"]
+        }
+    }
 }
